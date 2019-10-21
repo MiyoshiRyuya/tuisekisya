@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CSceneMain.cpp" />
     <ClCompile Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\Audio.cpp" />
     <ClCompile Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\DirectXDevice.cpp" />
     <ClCompile Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\Draw2DTex_Source.cpp" />
@@ -131,9 +132,10 @@
     <ClCompile Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\WinInputs.cpp" />
     <ClCompile Include="ステージ作成.cpp" />
     <ClCompile Include="主人公.cpp" />
-    <ClCompile Include="Enenmy.cpp" />
+    <ClCompile Include="ObjEnenmy.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CSceneMain.h" />
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameHead.h" />
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\Audio.h" />
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\DirectXDevice.h" />
@@ -149,6 +151,7 @@
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\WICTextureLoader.h" />
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\WinInputs.h" />
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\main.h" />
+    <ClInclude Include="ObjEnenmy.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\DirectXTex.inl" />
