@@ -1,1 +1,0 @@
-#include "GameL\DirectXDevice.h"

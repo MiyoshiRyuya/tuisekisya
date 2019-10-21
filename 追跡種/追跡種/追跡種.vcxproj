@@ -129,7 +129,8 @@
     <ClCompile Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\UserData.cpp" />
     <ClCompile Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\WICTextureLoader.cpp" />
     <ClCompile Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\WinInputs.cpp" />
-    <ClCompile Include="主人公.cpp" />
+    <ClCompile Include="ObjHero.cpp" />
+    <ClCompile Include="SceneMain.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameHead.h" />
@@ -147,6 +148,8 @@
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\WICTextureLoader.h" />
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\WinInputs.h" />
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\main.h" />
+    <ClInclude Include="ObjHero.h" />
+    <ClInclude Include="SceneMain.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\DirectXTex.inl" />
