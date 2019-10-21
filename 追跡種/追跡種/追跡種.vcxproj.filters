@@ -60,6 +60,9 @@
     <ClCompile Include="..\..\..\..\..\Desktop\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\GameL\WinInputs.cpp">
       <Filter>リソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="Enenmy.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\Desktop\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\GameHead.h">

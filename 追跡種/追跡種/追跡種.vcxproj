@@ -130,6 +130,7 @@
     <ClCompile Include="..\..\..\..\..\Desktop\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\GameL\WinInputs.cpp" />
     <ClCompile Include="ステージ作成.cpp" />
     <ClCompile Include="主人公.cpp" />
+    <ClCompile Include="Enenmy.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\Desktop\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\GameHead.h" />
