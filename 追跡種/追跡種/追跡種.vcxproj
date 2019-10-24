@@ -22,7 +22,6 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{5B7D53B8-0235-4BF8-B9F7-EA938FBA2B32}</ProjectGuid>
     <RootNamespace>追跡種</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -135,7 +134,6 @@
     <ClCompile Include="ObjEnenmy.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CSceneMain.h" />
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameHead.h" />
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\Audio.h" />
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\DirectXDevice.h" />
@@ -151,7 +149,6 @@
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\WICTextureLoader.h" />
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\WinInputs.h" />
     <ClInclude Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\main.h" />
-    <ClInclude Include="ObjEnenmy.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="D:\win10&amp;DirctX11&amp;VS2015\指南書\２Ｄライブラリ\GameL\DirectXTex.inl" />
