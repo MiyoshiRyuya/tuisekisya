@@ -115,7 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Objmenu.cpp" />
+    <ClCompile Include="MENU.cpp" />
     <ClCompile Include="SceneTitle.cpp" />
     <ClCompile Include="主人公.cpp" />
   </ItemGroup>
